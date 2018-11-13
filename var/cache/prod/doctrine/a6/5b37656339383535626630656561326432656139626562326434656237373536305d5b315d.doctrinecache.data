@@ -1,0 +1,14 @@
+1542035531
+s:929:"HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 12 Nov 2018 13:12:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 14
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: db974238714ca8de634a7ce1d083a14f=3df6782953078aa09407de4730e007e871f29a164588fae8bc1effe34ac8a559%3AJk4HWt%2FSAXUnnoQN%2FKwMul5ikkulhgRP0vpGn53qwditR%2FTjJSoid0O1JlkEQ5PtBewexlusj0GSRLSFZ8K0Hw%3D%3D; expires=Mon, 12-Nov-2018 15:12:11 GMT; Max-Age=7200; path=/; domain=api-addons.prestashop.com, db974238714ca8de634a7ce1d083a14f=91a42b5f7d5f7b72ab3a4fcdbbb800fcddacbf1b2bb67284af0db81bfc8ce922%3AJk4HWt%2FSAXUnnoQN%2FKwMul5ikkulhgRP0vpGn53qwdjrohtbapi97qv%2FYU70y%2Fvj%2BM4D3TKorMDDvdJCdDShLQ%3D%3D; expires=Mon, 12-Nov-2018 15:12:11 GMT; Max-Age=7200; path=/; domain=api-addons.prestashop.com
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[]}";

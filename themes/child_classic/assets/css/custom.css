@@ -1,0 +1,52 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+ h2 {
+     color: #284384; 
+ }
+
+ul li .dropdown-item {
+    color: #284384 !important;
+ }
+
+figure img {
+
+    max-width: 60%;
+    float: right;
+}
+
+div #custom-text {
+    background-color: #284384;
+    color: #ffffff;
+    text-align: left;
+}
+
+#slider, #slider2, #slider3{
+    font-size: 1.25rem;
+}
+
+#slider h1, #slider2 h1, #slider3 h1{
+    font-weight: 900 !important;
+    font-size: 200%;
+}
+
+#slider h5, #slider2 h5, #slider3 h5{
+    font-family: 'Roboto',sans-serif;
+    margin-bottom: 1.5rem;
+    letter-spacing: .45rem;
+    font-size: 75%;
+    font-weight: 100;
+}
+
+div .col-md-2.hidden-sm-down {
+
+    width: 10%;
+    height: 10%;
+}
+
+#buttonSlide1, #buttonSlide2, #buttonSlide3-1, #buttonSlide3-2{
+    border: 5px solid #3671DE;
+    background-color: #3671DE;
+    color: #ffffff;
+}
